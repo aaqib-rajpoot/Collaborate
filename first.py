@@ -1,0 +1,1 @@
+print("This is first collabe in AI class")
